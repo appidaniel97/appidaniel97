@@ -1,4 +1,4 @@
-## Olá me chamo Daniel Appi, sou Desenvolvedor Full-Stack!
+## Hi there, my name is Daniel Appi, I'm a Full-Stack Developer!
 <div align="center">
   <a href="https://github.com/appidaniel97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=appidaniel97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></b>
